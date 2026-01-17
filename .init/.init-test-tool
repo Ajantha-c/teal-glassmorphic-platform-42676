@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/teal-glassmorphic-platform-42676/t3_log_backend"
+}
