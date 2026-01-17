@@ -1,1 +1,3 @@
-# teal-glassmorphic-platform-42676
+# Project Repository
+
+This is the initial README file for the project.
